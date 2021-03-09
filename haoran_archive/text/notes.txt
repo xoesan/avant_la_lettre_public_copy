@@ -59,3 +59,39 @@ partImage是加载图片
 
 另外一点 媒体考古学的关系，实现的 效率远高于这里的技术，如processing p5.js 脚本 用最基础的html css js 无第三方的插件
 
+
+
+
+
+
+
+
+
+Outline:
+
+
+初衷-
+有关电影背景人物的观察
+
+Motivation of the work —
+Something about the background characters…
+
+网站结构-
+字宽
+滚动速度
+
+The structure of the website —
+Letter width
+Scroll speed
+
+网站作为形式-
+视差滚动
+关于交互性叙事
+电影和音乐中的对位处理
+网站作为书写方式
+
+Why a website —
+Parallel scrolling
+About ‘Gamebook’ / interactive storytelling 
+counterpointing in music and film
+The convenience: website as just the writing form
